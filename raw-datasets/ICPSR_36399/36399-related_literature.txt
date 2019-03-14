@@ -1,0 +1,141 @@
+Bibliography
+Uniform Crime Reporting Program Data: County-Level Detailed Arrest and
+Offense Data, United States, 2014
+
+This bibliography includes published and unpublished works that are related 
+to ICPSR study 36399. It includes works that are based on primary
+or secondary analysis of the data, or which describe or critique those
+data or the collection methodology. 
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR study used to:
+icpsr-biblio-notify@umich.edu 
+
+
+1. Amuedo-Dorantes, Catalina; Bansak, Cynthia; Pozo, Susan, "Refugee
+Admissions and Public Safety: Are Refugee Settlement Areas More Prone to
+Crime?." IZA Discussion Paper No. 11612. Bonn, Germany: Institute of Labor
+Economics, Jun 2018.
+Full text PDF: http://ftp.iza.org/dp11612.pdf
+
+2. Andrews, Rodney J.; Deza, Monica, "Local natural resources and crime:
+Evidence from oil price fluctuations in Texas." Journal of Economic
+Behavior and Organization. Jul 2018, 151, 123 - 142. DOI:
+10.1016/j.jebo.2018.02.011
+Full text PDF: http://ftp.iza.org/dp11612.pdf
+
+3. Andrews, Rodney J.; Deza, Monica, "The Effects of Local Economic
+Activity on Crime: Evidence from Oil Price Shocks in Texas." 2016..
+Full text PDF: http://www.sole-jole.org/17747.pdf
+
+4. Braun, Christine, "Crime and the Minimum Wage." Oct 5, 2017..
+Full text PDF: http://www.sole-jole.org/17747.pdf
+
+5. Braun, Christine, "Crime and the minimum wage." Review of Economic
+Dynamics. Apr 2019, 32, 122 - 152. DOI: 10.1016/j.red.2019.02.002
+Full text PDF: http://www.sole-jole.org/17747.pdf
+
+6. Braun, Christine, "Essays on Frictional Labor Markets and Measurement."
+Dissertation, University of California, 2018.
+Full text PDF: http://www.sole-jole.org/17747.pdf
+
+7. Collingwood, Loren; El-Khatib, Stephen O.; O'Brien, Benjamin G.,
+"Sustained Organizational Influence: American Legislative Exchange Council
+and the Diffusion of Anti-Sanctuary Policy." Nov 13, 2017..
+Full text PDF: http://www.collingwoodresearch.com/uploads/8/3/6/0/8360930/sustained-organizational-influence-final.pdf
+
+8. Dragone, Davide; Prarolo, Giovanni; Vanin, Paolo; Zanella, Giulio,
+"Crime and the legalization of recreational marijuana." Bologna, Italy: IZA
+Institute of Labor Economics, Jan 2017.
+Abstract: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2911460
+Full text PDF: http://ftp.iza.org/dp10522.pdf
+
+9. Drury, Zackary J., "Biting the bullet: Fixing America's quiet epidemic
+of gun suicide." ANU Undergraduate Research Journal. 2016, 8, 63 - 81. DOI:
+10.22459/AURJ.08.2016
+Full text PDF: http://press-files.anu.edu.au/downloads/press/n2558/pdf/article06.pdf
+
+10. El-Khatib, Stephen; Collingwood, Loren, "State Policy Responses to
+Sanctuary Cities:  Explaining
+the Rise of Sanctuary City Legislative Proposals." Oct 9, 2017..
+Full text PDF: http://www.collingwoodresearch.com/uploads/8/3/6/0/8360930/state-policy-responses.pdf
+
+11. Hale, Kathleen, "The Impact of Intersectoral Information Networks on
+Drug Court Policy." Dissertation, Kent State University, 2005.
+Full text PDF: http://www.collingwoodresearch.com/uploads/8/3/6/0/8360930/state-policy-responses.pdf
+
+12. Hao, Zhuang, "Three Essays on Health Economics." Dissertation,
+Washington State University, 2018.
+Full text PDF: http://www.collingwoodresearch.com/uploads/8/3/6/0/8360930/state-policy-responses.pdf
+
+13. Hao, Zhuang; Cowan, Benjamin, "The Cross-Border Spillover Effects of
+Recreational Marijuana Legalization." NBER Working Paper Series. Cambridge,
+MA: National Bureau of Economic Research, May 2017. DOI: 10.3386/w23426
+Abstract: http://www.nber.org/papers/w23426
+Full text PDF: http://www.nber.org/papers/w23426.pdf
+
+14. He, Qiwei, "Health Insurance on Social Welfare." Dissertation, Clemson
+University, 2018.
+Abstract: https://tigerprints.clemson.edu/all_dissertations/2143
+
+15. He, Qwei, "The Effect of Health Insurance on Crime: Evidence from the
+Affordable Care Act Medicaid Expansion." Jan 9, 2018. DOI:
+10.2139/ssrn.3087500
+Abstract: https://ssrn.com/abstract=3087500
+
+16. Hoon, Lim Siew, "Does shale energy development mean more crime? The
+case of the Bakken oil boom." Growth and Change. Sep 2018, 49, (3), 413 -
+441. DOI: 10.1111/grow.12242
+Abstract: https://ssrn.com/abstract=3087500
+
+17. Khana, Diba; Rossen, Lauren M.; Hedegaard, Holly; Warner, Margaret, "A
+Bayesian spatial and temporal modeling approach to mapping geographic
+variation in mortality rates for subnational areas within R-INLA." Journal
+of Data Science. Jan 2018, 16, (1), 147 - 182.
+Full text PDF: http://www.jds-online.com/file_download/642/246_OK.pdf
+
+18. Kiley, Mallory, "Dropout or Delinquent: An Ecological Analysis of High
+School Attrition Rates in Correlation to Criminal Behavior." Thesis, Union
+College, 2018.
+Abstract: https://digitalworks.union.edu/theses/1698
+
+19. Maier, Shana L.; Mannes, Suzanne; Koppenhofer, Emily L., "The
+implications of marijuana decriminalization and legalization on crime in
+the United States." Contemporary Drug Problems. Jun 2017, 44, (2), 125 -
+146. DOI: 10.1177/0091450917708790
+Abstract: https://digitalworks.union.edu/theses/1698
+
+20. Marotta, Phillip, "Assessing spatial relationships between race,
+inequality, crime, and gonorrhea and chlamydia in the United States."
+Journal of Urban Health. Oct 2017, 94, (5), 683 - 698. DOI: 10.1007/s11524-
+017-0179-5
+Abstract: https://www.ncbi.nlm.nih.gov/pubmed/28831708
+
+21. National Center for Victims of Crime, "School and Campus Crime." NCJ
+250828, 2014.
+Abstract: https://www.ncjrs.gov/app/publications/abstract.aspx?id=273008
+Full text PDF: https://www.nationalpublicsafetypartnership.org/clearinghouse/Content/ResourceDocuments/School%20and%20Campus%20Crime%20-OVC%20Factsheet.pdf
+
+22. Sabia, Joseph J.; Mackay, Taylor; Nguyen, Thanh T.; Dave, Dhaval M.,
+"Do Ban the Box Laws Increase Crime?." NBER Working Paper Series. National
+Bureau of Economic Research, Mar 2018. DOI: 10.3386/w24381
+Abstract: http://www.nber.org/papers/w24381
+Full text PDF: http://www.nber.org/papers/w24381.pdf
+
+23. Stringer, Richard J., "Policing the drunk driving problem: A
+longitudinal examination of DUI enforcement and alcohol related crashes in
+the U.S. (19852015)." American Journal of Criminal Justice. in press
+2018,. DOI: 10.1007/s12103-018-9464-4
+Abstract: http://www.nber.org/papers/w24381
+Full text PDF: http://www.nber.org/papers/w24381.pdf
+
+24. Stringer, Richard J.; Maggard, Scott R., "Reefer madness to marijuana
+legalization: Media exposure and American attitudes toward marijuana (1975-
+2012)." Journal of Drug Issues. Oct 2016, 46, (4), 428 - 445. DOI:
+10.1177/0022042616659762
+Abstract: http://www.nber.org/papers/w24381
+Full text PDF: http://www.nber.org/papers/w24381.pdf
+
+25. Zhang, Mengyi, "Does Immigration Cause Crime? Evidence from the United
+States." Thesis, John Hopkins University, 2018.
+Abstract: http://jhir.library.jhu.edu/handle/1774.2/59893
